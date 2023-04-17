@@ -1,0 +1,27 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+/* Example of a CSS rule that changes the text color of an h3 tag */
+h3{
+  color:blue;
+}
+
+/* Place your work for Part 2 in the space below*/
+
+.second{
+  background-color: blue;
+}
+.aof{
+  background-color: pink;
+}
+img{
+  width:100%;
+  height: 50%;
+}
+h1{
+  border: 10px dotted black;
+}
+
+  
+
